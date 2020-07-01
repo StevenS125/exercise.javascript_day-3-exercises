@@ -7,3 +7,7 @@ function isNumber(arg1) {
 
 }
 
+function convertToNumber(arg1) {
+    return parseInt(arg1)
+}
+
